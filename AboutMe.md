@@ -1,0 +1,8 @@
+# Murali Krishna Kethavath
+I can say that I am a responsible and a hard-working student. 
+Moreover, being a sociable person, I have many friends since I like to communicate with people and get to know new interesting individuals. 
+I enjoy my time at the university: it is really nice to study, the students and the professors are very friendly and ready to help.
+I like to receive and deal with challenging tasks.
+I am a very enthusiastic student and I think this is a strong point of mine.
+
+[MyPhoto](https://github.com/kool-195/assignment2-kethavath/blob/main/murali%20.jpg)
