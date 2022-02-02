@@ -16,6 +16,6 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
 
    ## Food items
    
-   1.Hyderabadi Dum Biryani
-   2.Mutton Fried Piece Biryani
-   3.Apricot Delight
+   1. Hyderabadi Dum Biryani
+   2. Mutton Fried Piece Biryani
+   3. Apricot Delight
