@@ -13,3 +13,9 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
    - go straight for 12km so that u can get on outer ring road
 
    - after then take left and then second right
+
+   ## Food items
+   
+   1.Hyderabadi Dum Biryani
+   2.Mutton Fried Piece Biryani
+   3.Apricot Delight
