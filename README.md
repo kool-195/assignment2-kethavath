@@ -35,3 +35,13 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
 | Basket Ball   | Mumbai   | $20   |
 | Throw Ball   | Hyderabad   |$15   |
 
+--------------------------------------------------------------------------------------------------------
+
+# pitty Quotes
+
+>Love makes life beautiful-*Shekar*
+>
+>We are all bad in someones story-*Krish*
+
+---------------------------------------------------------------------------------------------------------
+
