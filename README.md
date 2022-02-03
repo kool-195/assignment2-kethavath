@@ -19,3 +19,11 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
    1. Hyderabadi Dum Biryani
    2. Mutton Fried Piece Biryani
    3. Apricot Delight
+
+   --------------------------------------------------------------------------------------------------
+
+   [about me in-detail](https://github.com/kool-195/assignment2-kethavath/blob/main/AboutMe)
+
+
+   ---------------------------------------------------------------------------------------------------
+
