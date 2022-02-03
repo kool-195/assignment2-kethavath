@@ -67,6 +67,54 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
     }
     return false;
 }
+int gray_code (int n) {
+    return n ^ (n >> 1);
+}
+
+int count_bits (int n) {
+    int res = 0;
+    for (; n; n >>= 1)
+        res += n & 1;
+    return res;
+}
+
+void all_combinations (int n, int k) {
+    for (int i = 0; i < (1 << n); i++) {
+        int cur = gray_code (i);
+        if (count_bits(cur) == k) {
+            for (int j = 0; j < n; j++) {
+                if (cur & (1 << j))
+                    cout << j + 1;
+            }
+            cout << "\n";
+        }
+    }
+}
+vector<int> ans;
+
+void gen(int n, int k, int idx, bool rev) {
+    if (k > n || k < 0)
+        return;
+
+    if (!n) {
+        for (int i = 0; i < idx; ++i) {
+            if (ans[i])
+                cout << i + 1;
+        }
+        cout << "\n";
+        return;
+    }
+
+    ans[idx] = rev;
+    gen(n - 1, k - rev, idx + 1, false);
+    ans[idx] = !rev;
+    gen(n - 1, k - !rev, idx + 1, true);
+}
+
+void all_combinations(int n, int k) {
+    ans.resize(n);
+    gen(n, k, 0, false);
+}
 ...
 
 <https://cp-algorithms.com/combinatorics/generating_combinations.html>
