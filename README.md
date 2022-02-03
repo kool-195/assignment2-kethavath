@@ -27,3 +27,11 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
 
    ---------------------------------------------------------------------------------------------------
 
+# Sports
+
+| Name   | Location   | Amount   |
+|--------|------------|----------|
+| Volley Ball   |Delhi   | $40   |
+| Basket Ball   | Mumbai   | $20   |
+| Throw Ball   | Hyderabad   |$15   |
+
