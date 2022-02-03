@@ -48,13 +48,14 @@ Biryani is derived from the **Farsi Persian language** word "brishtah" meaning f
 # code fencing
 
 ## Combinatorics
+
 > Combinatorics is a stream of mathematics that concerns the study of finite discrete structures. It deals with the study of permutations and combinations, enumerations of the sets of elements. It characterizes Mathematical relations and their properties.
 
 <https://byjus.com/maths/combinatorics/>
 
 ...
 
-bool next_combination(vector<int>& a, int n) {
+> bool next_combination(vector<int>& a, int n) {
     int k = (int)a.size();
     for (int i = k - 1; i >= 0; i--) {
         if (a[i] < n - k + i + 1) {
@@ -67,4 +68,5 @@ bool next_combination(vector<int>& a, int n) {
     return false;
 }
 ...
+
 <https://cp-algorithms.com/combinatorics/generating_combinations.html>
